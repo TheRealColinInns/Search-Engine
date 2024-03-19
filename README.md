@@ -1,2 +1,2 @@
 # Search-Engine
-My personal implementation of a search engine
+My implementation of a search engine using some objects given to me from my University
